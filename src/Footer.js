@@ -29,7 +29,7 @@ function App() {
           <h2>Social Media</h2>
           <img id="socialmedia" src="https://cdn.discordapp.com/attachments/600146794445537281/998884535141933056/pngegg.png" />                  
         </div>
-        <div class="footer-email-form">
+        <div className="footer-email-form">
           <h2>Join Our Newsletter</h2>
           <input type="email" placeholder="Enter your E-Mail " id="footer-email"/>
           <img id="newsletter-email" src="https://cdn.discordapp.com/attachments/600146794445537281/998884936285179904/pngegg_1.png" />
