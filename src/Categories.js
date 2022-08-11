@@ -11,7 +11,7 @@ export default function Categories({ categories }) {
         <div>
             <Container className='categories'>
                 <Row>
-                    <Col>
+                    <Col className='categories'>
                         {categories?.map(item => (
                             <Link to={`/categories/${item.name}`} key={item.id}>
                                 <div className="category-card">
