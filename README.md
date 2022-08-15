@@ -9,6 +9,7 @@ This was a two week project completed by a team of 4 for the purpose of learning
 - ReactJS
 - CSS
 - Contentful (CMS)
+- React bootstrap
 
 ### Team members
 Onur Erdogan <br>
